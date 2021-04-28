@@ -11,7 +11,7 @@
   + 我的浏览器是chrome，所以选择安装chromedriver，
   + 这边我为各位提供一个资源路径http://chromedriver.storage.googleapis.com/index.html
   + 注意，一定要安装与你的浏览器版本对应的驱动包
-  + 将下载解压后的驱动放置与你的脚本文件同一目录
+  + 将下载解压后的驱动放置于“..\Python\Python38\Lib”  
 
 
 ##### 步骤实现  
